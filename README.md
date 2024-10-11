@@ -10,7 +10,7 @@
 
 - [Demo Project](https://amirmohammadianaftah.github.io/Firsthamburgermenuwithaccordion/)
 
-- Developed by Amir Mohammadian + My teammates(armin,amirhosein)
+- Developed by Amir Mohammadian
 - Created - 2024-10-04
 - 💻 Technologies Used - Html , css , JS
 - ♀️ Role - Frontend
